@@ -1,6 +1,5 @@
 #!/usr/bin/env gxi
 
-(export ans_001)
 (def (ans_001 . args)
     (displayln 10)
 
